@@ -1,1 +1,1 @@
-# ci-test-bom-impl
+Please consult the README.md from https://github.com/ThomasPoeschmann/ci-test-rest-app
