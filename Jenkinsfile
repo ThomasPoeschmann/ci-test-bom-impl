@@ -1,4 +1,4 @@
-fimport java.text.SimpleDateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 pipeline {
