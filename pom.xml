@@ -4,7 +4,7 @@
 
     <groupId>com.poeschmann.citest</groupId>
     <artifactId>ci-test-bom-impl</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>The purpose of the BOM IMPL is to define the latest versions of all components which implement the API, and a common version to identify them all.</description>
     <packaging>pom</packaging>
 
@@ -63,7 +63,7 @@
             <dependency>
                 <groupId>com.poeschmann.citest</groupId>
                 <artifactId>ci-test-component-b-impl</artifactId>
-                <version>1.0.0</version>
+                <version>1.0.1</version>
             </dependency>
         </dependencies>
 
