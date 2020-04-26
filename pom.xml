@@ -57,7 +57,7 @@
             <dependency>
                 <groupId>com.poeschmann.citest</groupId>
                 <artifactId>ci-test-component-a-impl</artifactId>
-                <version>1.0.0</version>
+                <version>1.0.1</version>
             </dependency>
 
             <dependency>
